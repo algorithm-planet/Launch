@@ -30,4 +30,4 @@
         Bezier bezier_ = new Bezier(start, start + anchor, end);
 ```
 
-![Debug](https://imgur.com/5tQboag)
+![Debug](https://i.imgur.com/5tQboag.png)
